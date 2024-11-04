@@ -1,0 +1,10 @@
+id;rendszam;latlong;tipus;szin;ar;evjarat;leiras;kepURL;deleted;id;nev;telefon;id;nev;orszag;id;nev
+1;abb-012;47.5410485803319,19.1516419487702;Suzuki;feher;2500000;2018;;;0;4;Varga Jozsef;+36 1 9929-8217;1;Opel;NULL;1;személygépkocsi
+5;abo-147;47.4010485803319,19.1536419487702;Opel;piros;1100000;2018;;;0;1;Kiss Lajos;+36 1 8139-4405;1;Opel;NULL;1;személygépkocsi
+4;abo-126;47.5760485803319,19.1616419487702;M3;NULL;400000;2018;;;0;3;Kovacs Imre;+36 1 3652-1187;2;BMW;NULL;1;személygépkocsi
+6;bck-159;47.4210485803319,18.9906419487702;X5;feher;600000;2018;;;0;9;Kiss Karoly;+36 1 1976-3679;2;BMW;NULL;1;személygépkocsi
+8;edu-256;47.4200485803319,19.0646419487702;Skoda;piros;755000;2018;;;0;7;Toth Laszlo;+36 1 8413-6094;2;BMW;NULL;1;személygépkocsi
+3;abo-125;47.5410485803319,19.0886419487702;NULL;NULL;1870000;2018;;;0;4;Varga Jozsef;+36 1 4996-5351;3;TOYOTA;NULL;1;személygépkocsi
+9;ekl-294;47.3950485803319,19.1196419487702;Suzuki;piros;900000;2018;;;0;3;Kovacs Imre;+36 1 3973-7021;3;TOYOTA;NULL;1;személygépkocsi
+2;abe-365;47.3980485803319,19.0206419487702;Opel;feher;5000000;2018;;;0;2;Nagy Bela;+36 1 6920-6507;4;HONDA;NULL;1;személygépkocsi
+7;dba-478;47.5710485803319,19.1526419487702;Lada;piros;2102000;2018;;;0;1;Kiss Lajos;+36 1 3494-2935;4;HONDA;NULL;1;személygépkocsi
